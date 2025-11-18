@@ -100,7 +100,7 @@ console.log(dato);    // -> global intacta
 /*
     1-. SCOPE, TODOS LOS TIPOS DE SCOPE QUE EXISTEN
         1.1 scope-function
-        1.1 scrope-block
+        1.2 scrope-block
     2-. ESTRUCUTRAS DE CONTROL JAVASCRIPT otra carpeta o respositorio
         2.1 scope-if.js
             for.js
